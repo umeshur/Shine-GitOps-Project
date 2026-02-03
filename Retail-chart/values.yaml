@@ -1,5 +1,5 @@
 replicaCount:
-  mongodb: 4
+  mongodb: 6
   userprofile: 5
 
 database:
